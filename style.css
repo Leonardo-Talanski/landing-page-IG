@@ -1,1 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Serif:opsz,wght@8..144,600&display=swap');
+
+/* -- Uso das fontes : 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Serif', serif; -- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+}
+
+.cabecalho {
+    background: linear-gradient(68.15deg, #35B729 16.62%, #FFBD4A 85.61%);
+}
+ 
