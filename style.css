@@ -16,9 +16,10 @@ body {
 }
 
 .cabecalho {
-    background: linear-gradient(68.15deg, #fefffe 16.62%, #FFBD4A 85.61%);
+    background: linear-gradient(68.15deg, #FFFFFF 16.62%, #FFBD4A 85.61%);
 }
- 
+
 .cabecalho-imagem {
-    width: 450px;
+    width: 170px;
 }
+
