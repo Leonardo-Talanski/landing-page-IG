@@ -48,7 +48,7 @@ body {
 
 .conteudo {
     margin-bottom: 48px;
-    border-top: 0.4px solid #2B2730;
+    border-top: 10px ridge #35B729;
 }
 
 .conteudo-principal {
@@ -111,8 +111,8 @@ body {
 }
 
 .conteudo-secundario-titulo{
-    border-top: 0.4px solid #2B2730;
-    padding-top: 48px;
+    border-top: 7px ridge #35B729;
+    padding-top: 40px;
     font-family: 'Roboto Serif', serif;
     font-weight: 400;
     font-size: 24px;
@@ -240,7 +240,6 @@ footer {
     border-radius: 3px;
     font-weight: bold;
     background-color: whitesmoke;
-
 }
 
 
