@@ -13,13 +13,47 @@ font-family: 'Roboto Serif', serif; -- */
 
 body {
     font-size: 100%;
+    background: linear-gradient(68.15deg, #ffffff 16.62%, #FFBD4A 85.61%);
 }
 
 .cabecalho {
-    background: linear-gradient(68.15deg, #FFFFFF 16.62%, #FFBD4A 85.61%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    height: 200px;
 }
 
-.cabecalho-imagem {
-    width: 170px;
+.cabecalho-imagem { 
+    height: 400px;
 }
+
+.cabecalho img {
+    width: auto;
+    height: 350px;
+}
+
+.cabecalho-menu { 
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item { 
+    font-family: 'Montserrat', sans-serif;
+    color: #050505;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.conteudo {
+    border-top: 0.4px solid #2B2730;
+}
+
+
+
+
+
+
+
 
