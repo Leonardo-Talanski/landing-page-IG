@@ -161,7 +161,8 @@ footer {
 
 .footer-coluna h4 {
     font-size: 22px;
-    color: #CD0404;
+    font-family: 'Roboto Serif', serif;
+    color: #2B2730;
     margin-bottom: 20px;
     font-weight: 500;
     position: relative;
@@ -179,8 +180,9 @@ footer {
 
 .footer-coluna ul li a {
     font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
     text-transform: capitalize;
-    color: #CD0404;
+    color: #2B2730;
     text-decoration: none;
     font-weight: 300;
     display: block;
@@ -188,13 +190,12 @@ footer {
 }
 
 .footer-coluna ul li a:hover {
-    color: #CD0404;
+    color: #35B729;
     padding-left: 10px;
 }
 
 .footer-coluna .medias-socias {
     margin-top: 30px;
-
 }
 
 .footer-coluna .medias-socias a {
@@ -206,8 +207,8 @@ footer {
     margin: 0 10px 10px 0;
     text-decoration: none;
     border-radius: 50%;
-    color: #CD0404;
-    border: 1px solid #CD0404;
+    color: #2B2730;
+    border: 3px solid #35B729;
     transition: all 0.5s ease;
 }
 
@@ -216,8 +217,8 @@ footer {
 }
 
 .footer-coluna .medias-socias a:hover {
-    color: #CD0404;
-    background-color: #CD0404;
+    color: #FFBD4A;
+    background-color: #35B729;
 }
 
 .footer-coluna .form-sub input {
@@ -225,13 +226,13 @@ footer {
     padding: 10px;
     font-size: 15px;
     outline: none;
-    border: 1px solid white;
-    color: white;
-    background-color: #CD0404;
+    border: 5px solid #FFBD4A;
+    background-color: #35B729;
 }
 
 .footer-coluna .form-sub input::placeholder {
-    color: white;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto Serif', serif;
 }
 
 .footer-coluna .form-sub button {
@@ -242,10 +243,12 @@ footer {
     outline: none;
     border: none;
     cursor: pointer;
-    color: #CD0404;
+    background: linear-gradient(68.15deg, #FFBD4A 16.62%, #ffffff 85.61%);
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     border-radius: 3px;
     font-weight: bold;
     background-color: whitesmoke;
+    font-family: 'Roboto Serif', serif;
 }
 
 /* -- Fim Footer -- */
