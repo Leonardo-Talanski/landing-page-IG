@@ -130,6 +130,8 @@ body {
     padding: 0px;
 }
 
+/* -- Íncio Footer -- */
+
 footer {
     background: linear-gradient(68.15deg, #ffffff 16.62%, #FFBD4A 85.61%);
     padding: 50px 0;
@@ -143,22 +145,21 @@ footer {
     max-width: 1400px;
     padding: 0 4%;
     margin: auto;
-
 }
 
-.row-footer {
+.linha-footer {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
-.footer-col {
+.footer-coluna {
     width: 25%;
     padding: 0 15px;
 }
 
-.footer-col h4 {
+.footer-coluna h4 {
     font-size: 22px;
     color: #CD0404;
     margin-bottom: 20px;
@@ -167,16 +168,16 @@ footer {
     text-transform: uppercase;
 }
 
-.footer-col ul {
+.footer-coluna ul {
     list-style: none;
     padding-left: 0;
 }
 
-.footer-col ul li {
+.footer-coluna ul li {
     margin: 10px 0;
 }
 
-.footer-col ul li a {
+.footer-coluna ul li a {
     font-size: 16px;
     text-transform: capitalize;
     color: #CD0404;
@@ -186,17 +187,17 @@ footer {
     transition: all 0.3s ease;
 }
 
-.footer-col ul li a:hover {
+.footer-coluna ul li a:hover {
     color: #CD0404;
     padding-left: 10px;
 }
 
-.footer-col .medias-socias {
+.footer-coluna .medias-socias {
     margin-top: 30px;
 
 }
 
-.footer-col .medias-socias a {
+.footer-coluna .medias-socias a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -210,16 +211,16 @@ footer {
     transition: all 0.5s ease;
 }
 
-.footer-col .medias-socias a i {
+.footer-coluna .medias-socias a i {
     font-size: 20px;
 }
 
-.footer-col .medias-socias a:hover {
+.footer-coluna .medias-socias a:hover {
     color: #CD0404;
     background-color: #CD0404;
 }
 
-.footer-col .form-sub input {
+.footer-coluna .form-sub input {
     width: 100%;
     padding: 10px;
     font-size: 15px;
@@ -229,11 +230,11 @@ footer {
     background-color: #CD0404;
 }
 
-.footer-col .form-sub input::placeholder {
+.footer-coluna .form-sub input::placeholder {
     color: white;
 }
 
-.footer-col .form-sub button {
+.footer-coluna .form-sub button {
     width: 100%;
     margin-top: 10px;
     padding: 10px;
@@ -247,6 +248,7 @@ footer {
     background-color: whitesmoke;
 }
 
+/* -- Fim Footer -- */
 
 
 
