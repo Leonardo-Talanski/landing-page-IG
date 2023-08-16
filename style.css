@@ -226,12 +226,13 @@ footer {
     padding: 10px;
     font-size: 15px;
     outline: none;
-    border: 5px solid #FFBD4A;
+    border: 0.5px solid #ffffff;
     background-color: #35B729;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .footer-coluna .form-sub input::placeholder {
-    color: rgb(0, 0, 0);
+    color: #ffffff;
     font-family: 'Roboto Serif', serif;
 }
 
@@ -249,6 +250,7 @@ footer {
     font-weight: bold;
     background-color: whitesmoke;
     font-family: 'Roboto Serif', serif;
+    color: #074b01;
 }
 
 /* -- Fim Footer -- */
