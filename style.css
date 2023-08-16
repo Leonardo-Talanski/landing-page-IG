@@ -56,6 +56,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    padding: 40px;
 }
 
 .conteudo-principal-escrito {
@@ -89,7 +90,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
     font-size: 15px;
-    color: #2B2730 ;
+    color: #2B2730;
 }
 
 .conteudo-principal-escrito-botao:hover {
@@ -130,8 +131,12 @@ body {
 }
 
 footer {
-    background-color: #F8F6F4;
+    background: linear-gradient(68.15deg, #ffffff 16.62%, #FFBD4A 85.61%);
     padding: 50px 0;
+}
+
+.linha-aplicada {
+    border-top: 10px ridge #35B729;
 }
 
 .container-footer {
