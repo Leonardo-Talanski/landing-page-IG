@@ -134,10 +134,14 @@ body {
 
 .conteudo img {
     width: 100%;
-        height: calc(80vh - px);
-        display: flex;
-        align-items: center;
-        justify-content: center;
+    height: calc(76vh - 0px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linha-plano {
+    border-top: 10px ridge #35B729;
 }
 
 
