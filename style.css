@@ -131,7 +131,7 @@ body {
 
 /* -- Estilos Planos & Serviços -- */
 
-.conteudo-p img {
+.conteudo-planos img {
     width: 100%;
     height: calc(76vh - 0px);
     display: flex;
