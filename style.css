@@ -143,7 +143,9 @@ body {
     border-top: 10px ridge #35B729;
 }
 
-
+nav a:hover {
+   border-bottom: solid #35B729;
+}
 
 
 
