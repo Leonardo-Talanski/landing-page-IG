@@ -133,7 +133,7 @@ body {
 
 .conteudo-planos img {
     width: 100%;
-    height: calc(76vh - 0px);
+    height: calc(74vh - 0px);
     display: flex;
     align-items: center;
     justify-content: center;
