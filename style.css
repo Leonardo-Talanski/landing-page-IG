@@ -147,12 +147,27 @@ nav a:hover {
    border-bottom: solid #35B729;
 }
 
-
-
-
-
 /* -- Fim Estilos Planos & Serviços -- */
 
+/* -- Ínicio Estilos Porque IG -- */
+
+.logo-alternativo {
+    margin: auto;
+    height: auto;
+    border-style: outset;
+    border-color: #35B729;
+}
+.conteudo-principal-imagem-ig{
+    width: 400px;
+    border-style: outset;
+    border-color: #7000fa;
+    
+}
+
+
+
+
+/* - Fim Estilos Porque IG -- */
 
 /* -- Íncio Footer -- */
 
