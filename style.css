@@ -161,9 +161,39 @@ nav a:hover {
     width: 400px;
     border-style: outset;
     border-color: #7000fa;
-    
 }
 
+.conteudo-principal-ig {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.conteudo-principal-escrito-titulo-ig {
+    font-family: 'Roboto Serif', serif;
+    font-weight: 400;
+    font-size: 64px;
+    color: #2B2730;
+    text-align: left;
+}
+
+.conteudo-secundario-paragrafo-ig {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: rgb(43, 39, 48);
+    margin: 25px;
+    padding: 0px;      
+}
+
+.fibra-ig {
+    margin: 30px;
+    width: 450px;
+    border-radius: 40px;
+    opacity: 0.8;
+}
 
 
 
