@@ -1,6 +1,5 @@
 <p align="center">
-<img src="![Logo_Ig-removebg](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/e02780d2-2030-40a4-b13a-e75f7a2286aa)
-" width="250" alt="logo internet general">
+![Logo_Ig-removebg](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/de7e4ce5-e543-4a2f-8f4f-0ec660cd3826 "width="250" alt="Mario Character")
 </p>
 
 <h1 align="center">Site Internet General</h1>
