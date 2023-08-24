@@ -1,5 +1,6 @@
 <p align="center">
-<img src="C:\Users\leona\landing-page-IG\assets\images\Logo Ig.png"
+<img 
+![Logo Ig](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/3afc2b35-0be7-4d8e-885c-1a51ab965b7d)
 
 </p>
 
