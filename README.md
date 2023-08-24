@@ -1,7 +1,6 @@
 <p align="center">
 <img 
 ![Logo Ig](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/3afc2b35-0be7-4d8e-885c-1a51ab965b7d)
-
 </p>
 
 <h1 align="center">Site Internet General</h1>
