@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/6398c999-e003-41ff-a111-a393512ac484)
+(https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/6398c999-e003-41ff-a111-a393512ac484)
 
 </p>
 
