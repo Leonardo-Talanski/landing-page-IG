@@ -1,5 +1,6 @@
 <p align="center">
-![Logo_Ig-removebg](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/413a9272-e18f-4b55-b1be-602afd3a9003)
+<img src="![Logo_Ig-removebg](https://github.com/Leonardo-Talanski/landing-page-IG/assets/126731524/e02780d2-2030-40a4-b13a-e75f7a2286aa)
+" width="250" alt="logo internet general">
 </p>
 
 <h1 align="center">Site Internet General</h1>
