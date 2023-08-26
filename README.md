@@ -5,6 +5,8 @@
 
 <h1 align="center">Site Internet General</h1>
 
+Para acessar : https://leonardo-talanski.github.io/landing-page-IG/
+
 # Descrição
 
 Projeto desenvolvido para fins próprios para desenvolvimento de Habilidades usando HTML, CSS e JAVA SCRIPT.
