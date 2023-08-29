@@ -4,6 +4,8 @@
 font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto Serif', serif; -- */
 
+/* -- RESET DO CSS -- */
+
 * {
   margin: 0;
   padding: 0;
@@ -11,10 +13,19 @@ font-family: 'Roboto Serif', serif; -- */
   text-decoration: none;
 }
 
+/* -- FIM DO RESET -- */
+
+
+/* -- Configurações do Body -- */
+
 body {
     font-size: 100%;
     background: linear-gradient(68.15deg, #ffffff 16.62%, #FFBD4A 85.61%);
 }
+
+/* -- Fim CConfigurações do Body -- */
+
+/* -- Início Estilos HOME -- */
 
 .cabecalho {
     display: flex;
@@ -129,7 +140,10 @@ body {
     padding: 0px;
 }
 
-/* -- Estilos Planos & Serviços -- */
+/* -- Fim Estilos HOME -- */
+
+
+/* -- Início Estilos Planos & Serviços -- */
 
 .conteudo-planos img {
     width: 100%;
@@ -149,7 +163,8 @@ nav a:hover {
 
 /* -- Fim Estilos Planos & Serviços -- */
 
-/* -- Ínicio Estilos Porque IG -- */
+
+/* -- Inicio Estilos Porque IG -- */
 
 .logo-alternativo {
     margin: auto;
@@ -195,11 +210,10 @@ nav a:hover {
     opacity: 0.8;
 }
 
-
-
 /* - Fim Estilos Porque IG -- */
 
-/* -- Íncio Footer -- */
+
+/* -- Início Footer -- */
 
 footer {
     background: linear-gradient(68.15deg, #ffffff 16.62%, #FFBD4A 85.61%);
@@ -338,7 +352,7 @@ footer {
     font-size: 16px;
 }
 
-/* -- Fim Footer -- */
+/* -- Fim Do Footer -- */
 
 
 
