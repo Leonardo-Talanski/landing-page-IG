@@ -5,7 +5,7 @@
 
 <h1 align="center">Landing Page Internet General</h1>
 
-Para acessar : https://leonardo-talanski.github.io/landing-page-IG/
+Para acessar : https://leonardo-talanski.github.io/pagina-internet-general/
 
 # Descrição
 
